@@ -1,2 +1,2 @@
-# pearlCalc
- awesome calc
+# estherCalc
+ awesome calculator
